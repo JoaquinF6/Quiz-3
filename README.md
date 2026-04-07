@@ -6,4 +6,3 @@ seccion 1
 4. c) 50
 5. c) 0
 6. d) 15 veces
-   
